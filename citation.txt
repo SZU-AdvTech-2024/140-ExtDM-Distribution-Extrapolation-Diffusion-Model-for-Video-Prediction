@@ -1,0 +1,6 @@
+@inproceedings{REPO140,
+    author = "Zhang, Zhicheng and Hu, Junyao and Cheng, Wentao and Paudel, Danda and Yang, Jufeng",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision (CVPR)",
+    title = "{ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction}",
+    year = "2024"
+}
